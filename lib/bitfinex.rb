@@ -1,8 +1,6 @@
 require 'uri'
 require 'base64'
 require 'openssl'
-require 'json'
-require 'faraday_middleware'
 require 'bitfinex/configurable'
 require 'bitfinex/errors'
 require 'bitfinex/connection'
